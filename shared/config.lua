@@ -9,7 +9,7 @@ config.debug = false -- Toggle script debug mode. True will show debug prints an
 
 -- Resource settings
 config.resource_settings = {
-    framework = 'boii_base', -- Choose your framework here. Available options; 'boii_base', 'qb-core', 'ox_core', 'esx_legacy', 'custom'
+    framework = 'qb-core', -- Choose your framework here. Available options; 'boii_base', 'qb-core', 'ox_core', 'esx_legacy', 'custom'
     notifications = 'boii_ui', -- Choose your notifications here. Available options; 'boii_ui' -- additional options will be added 
 }
 
